@@ -90,8 +90,8 @@ li{
 
 .js-weather{
 	position: absolute;
-	top: 10px;
-	right: 10px;
+	top: 20px;
+	right: 30px;
 	color: aliceblue;
 	font-size: 22px;
 }
